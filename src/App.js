@@ -20,7 +20,6 @@ function App() {
   console.log(fromAPI);
   return (
     <div>
-      <div>api {fromAPI}</div>
       <PortflioPage />
     </div>
   );
